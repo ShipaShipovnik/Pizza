@@ -1,0 +1,26 @@
+div,header {
+    text-align: center;
+    background-color: rgba(224, 210, 189, 0.8);
+    margin-left: 300px;
+    margin-right: 300px;
+}
+table {
+    font-size: 1pc;
+    margin: center;
+    background-color: rgba(224, 210, 189, 0.8);
+    padding: 80px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+th,td {
+    background-color: rgb(248, 247, 243);
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+body{
+    background-image: url(https://kartinkin.net/uploads/posts/2021-07/1627101401_28-kartinkin-com-p-cherno-belaya-plitka-tekstura-besshovnaya-33.jpg);
+}
